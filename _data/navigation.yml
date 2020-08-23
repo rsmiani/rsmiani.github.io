@@ -6,20 +6,20 @@ main:
   - title: "Teaching"
     url: /teaching/    
  
-  - title: "Research Projetcs"
-    url: /projects/
+ # - title: "Research Projetcs"
+  #  url: /projects/
  
    - title: "Talks"
     url: /talks/    
  
-  - title: "Events"
-    url: /events/
+ # - title: "Events"
+ #   url: /events/
     
-  - title: "Datasets"
-    url: /datasets/
+ # - title: "Datasets"
+ #   url: /datasets/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
 
 
