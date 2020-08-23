@@ -11,11 +11,14 @@ main:
   - title: "Datasets"
     url: /datasets/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Research projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Students"
+    url: /students/
+  
+  - title: "Events"
+    url: /events/
