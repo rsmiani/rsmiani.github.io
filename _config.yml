@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo S. Miani"
-  avatar           : "profile.png"
+  avatar           : "frontpicture.jpeg"
   bio              : "Cybersecurity data analyst, Assistant Professor at Federal University of Uberlandia, School of Computer Science (FACOM)"
   location         : "Uberlandia, Brazil"
-  employer         : "www.ufu.br"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=nQF_Pk8AAAAJ&hl=pt-BR&oi=ao"
   email            :
