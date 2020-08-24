@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Rodrigo, an Assistant Professor at the [Federal University of Uberlandia](http://www.ufu.br), Brazil, in the [School of Computer Science](http://www.facom.ufu.br). I'm a cybersecurity scientist and passionate about data science. My research is focused on developing innovative methods for attack prevention/detection and analyzing cybersecurity data using quantification models.
+Hi! I'm Rodrigo, an Assistant Professor at the [Federal University of Uberlandia, Brazil](http://www.ufu.br), in the [School of Computer Science](http://www.facom.ufu.br). I'm a cybersecurity scientist and passionate about data science. My research is focused on developing innovative methods for attack prevention/detection and analyzing cybersecurity data using quantification models.
 
 My work and research
 ======
