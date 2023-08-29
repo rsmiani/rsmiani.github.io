@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rodrigo Sanches Miani"
 title_separator          : "-"
-name                     : &name "Rodrigo Sanches Miani"
+name                     : &name "Rodrigo S. Miani"
 description              : &description "Professor at Federal University of Uberlandia (UFU)"
 url                      : https://rsmiani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
