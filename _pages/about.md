@@ -13,7 +13,7 @@ Hi! I'm Rodrigo, an Assistant Professor at the [Federal University of Uberlandia
 My work and research
 ======
 
-I use quantitative models and computational methods to investigate the efficiency of current intrusion detection techniques, and also proposing new ones. Currently I'm interested in the following topics: i) evaluating the feasibility of using stream mining algorithms on building intrusion systems, ii) developing intrusion detection systems for IoT system, iii) investigating the impact of social platforms on detecting cybersecurity events, and iv) malware static analysis, in particular, evaluating ransomware families. 
+I use quantitative models and computational methods to investigate the efficiency of current intrusion detection techniques, and also proposing new ones. Currently I'm interested in the following topics: i) evaluating the feasibility of using stream mining algorithms on building intrusion systems, ii) developing intrusion detection systems for IoT systems, iii) investigating the impact of social platforms on detecting cybersecurity events, and iv) malware analysis, in particular, evaluating ransomware families. 
 
 My background and history
 ======
