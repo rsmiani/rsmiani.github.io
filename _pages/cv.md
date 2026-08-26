@@ -12,7 +12,7 @@ Current appointments
 
 - **Associate Professor, School of Computer Science (FACOM), Federal University of Uberlândia** — faculty member since 2013; Associate Professor since 2024.
 - **Director of FACOM** — 2025–present.
-- **Coordinator, Graduate Certificate Program in Cybersecurity** — 2023–present.
+- **Coordinator, [Graduate Certificate Program in Cybersecurity](https://facom.ufu.br/especializacao/especializacao-em-seguranca-cibernetica)** — 2023–present.
 
 Education
 ======
@@ -31,15 +31,6 @@ Research areas
 - Artificial intelligence and data-stream mining for cybersecurity
 - Security of IoT and cyber-physical systems
 - Security metrics and quantitative models
-
-Selected service and leadership
-======
-
-- Member of the CESeg Advisory Committee, Brazilian Computer Society, 2024–2025.
-- Program Committee Chair, LADC 2026 Industry Track.
-- Program Committee Chair, 1st Workshop on Cybersecurity in AI (WCIA), SBSeg 2026.
-- Guest Editor, *Symmetry*, special issue on cybersecurity, IoT, and privacy.
-- Program-committee member, journal reviewer, and organizer for national and international events.
 
 Academic profiles
 ======
