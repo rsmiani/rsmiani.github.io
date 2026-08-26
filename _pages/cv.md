@@ -1,59 +1,52 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+Current appointments
+======
+
+- **Associate Professor, School of Computer Science (FACOM), Federal University of Uberlândia** — faculty member since 2013; Associate Professor since 2024.
+- **Director of FACOM** — 2025–present.
+- **Coordinator, Graduate Certificate Program in Cybersecurity** — 2023–present.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Ph.D. in Electrical Engineering**, University of Campinas, 2013. Dissertation: *Um estudo sobre métricas e quantificação em segurança da informação*.
+- **Visiting doctoral researcher**, CyberSecurity Quantification Laboratory, University of Maryland, 2011.
+- **M.Sc. in Electrical Engineering**, University of Campinas, 2009. Dissertation: *Aplicação de métricas à análise de segurança em Redes Metropolitanas de Acesso Aberto*.
+- **B.Sc. in Mathematics**, Federal University of São Carlos, 2005. Final project: *Introdução à Criptografia*.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research areas
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+- Intrusion detection and network-security analytics
+- Malware, botnets, and malicious-content analysis
+- Cyber threat intelligence and incident response
+- Artificial intelligence and data-stream mining for cybersecurity
+- Security of IoT and cyber-physical systems
+- Security metrics and quantitative models
+
+Selected service and leadership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+- Member of the CESeg Advisory Committee, Brazilian Computer Society, 2024–2025.
+- Program Committee Chair, LADC 2026 Industry Track.
+- Program Committee Chair, 1st Workshop on Cybersecurity in AI (WCIA), SBSeg 2026.
+- Guest Editor, *Symmetry*, special issue on cybersecurity, IoT, and privacy.
+- Program-committee member, journal reviewer, and organizer for national and international events.
+
+Academic profiles
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- [Lattes CV](https://lattes.cnpq.br/2992074747740327)
+- [Google Scholar](https://scholar.google.com.br/citations?user=nQF_Pk8AAAAJ&hl=pt-BR)
+- [ORCID](https://orcid.org/0000-0002-8176-8040)
+- [GitHub](https://github.com/rsmiani)
+
+<p class="page-note">Condensed CV based on the Lattes record updated on July 24, 2026.</p>

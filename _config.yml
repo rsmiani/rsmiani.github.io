@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Rodrigo S. Miani"
 title_separator          : "-"
 name                     : &name "Rodrigo S. Miani"
-description              : &description "Professor at Federal University of Uberlandia (UFU)"
+description              : &description "Associate Professor and cybersecurity researcher at the Federal University of Uberlândia"
 url                      : https://rsmiani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rsmiani.github.io"
+repository               : "rsmiani/rsmiani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Rodrigo S. Miani"
-  avatar           : "frontpicture.jpeg"
-  bio              : "Cybersecurity data analyst, Assistant Professor at Federal University of Uberlandia, School of Computer Science (FACOM)"
-  location         : "Uberlandia, Brazil"
+  avatar           : "rodrigo-miani.jpeg"
+  bio              : "Associate Professor, cybersecurity researcher, and Director of FACOM at the Federal University of Uberlândia"
+  location         : "Uberlândia, Brazil"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.br/citations?user=nQF_Pk8AAAAJ&hl=pt-BR&oi=ao"
+  googlescholar    : "https://scholar.google.com.br/citations?user=nQF_Pk8AAAAJ&hl=pt-BR"
   email            : "miani@ufu.br"
   researchgate     : "https://www.researchgate.net/profile/Rodrigo_Miani"
   uri              :
@@ -262,7 +262,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
