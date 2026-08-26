@@ -7,45 +7,81 @@ redirect_from:
   - /events/
 ---
 
-I contribute to the Brazilian and international cybersecurity and computer-networks communities through program committees, peer review, event organization, and academic governance.
+I contribute to the Brazilian and international cybersecurity and computer-networks communities through technical program committees, peer review, event organization, and academic governance.
 
-Program committees and community service
+Event chair
 ======
 
-- Program Committee Chair, **LADC 2026 Industry Track**.
-- Program Committee Chair, **1st Workshop on Cybersecurity in AI (WCIA), SBSeg 2026**.
-- Member of **CESeg**, the Brazilian Computer Society's Special Commission on Cybersecurity, from 2024 to 2025.
-- Regular program-committee member and reviewer for conferences and journals in cybersecurity, computer networks, and distributed systems.
+- **2026:** Program Committee Chair, 1st Workshop on Cybersecurity in AI (WCIA), co-located with SBSeg 2026.
+- **2026:** Program Committee Chair, LADC 2026 Industry Track.
+- **2023:** Co-chair, 3rd Workshop on Security, Privacy and Reliability on Wireless Sensing Networks (WSensing 2023), co-located with LADC 2023.
+- **2021:** Local Organizing Committee member, Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2021).
+- **2019:** Organizing Committee member, 14th International Conference on Green, Pervasive, and Cloud Computing (GPC 2019).
+- **2019:** Organizing Committee member, II Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC).
+- **2018:** Organizing Committee member, I Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC).
+- **2017:** Organizing Committee member, XI Workshop de Teses e Dissertações em Ciência da Computação da FACOM/UFU (WTDCC).
 
-<details class="academic-details" markdown="1">
-<summary>Earlier program committee work (2018–2020)</summary>
-
-- **2020:** IEEE NOMS, ARES, WPEIF/SBRC, WTG/SBRC, EICC, S4SI/NetSoft, and SECURWARE.
-- **2019:** SECURWARE, CECC, WPEIF/SBRC, WTG/SBRC, MOBILITY, ICN, and S4SI/NetSoft.
-- **2018:** SECURWARE, ICN, MOBILITY, HEAd, WPEIF/SBRC, and S4SI/NetSoft.
-
-</details>
-
-Event organization
+Technical program committees
 ======
 
-- **2026:** Coordenação do Comitê de Programa do I Workshop de Cibersegurança em IA (WCIA) - SBSeg 2026 — SBC
-- **2026:** Coordenação do Comitê de Programa do LADC 2026 Industry Track — SBC
-- **2023:** Co-chair of the 3rd Workshop on Security, Privacy and Reliability on Wireless Sensing Networks (WSensing 2023, Co-located with LADC 2023)
-- **2021:** Membro da comissão organizadora (Comitê Local) do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC) — SBC
-- **2019:** 14th International Conference on Green, Pervasive, and Cloud Computing (GPC 2019)
-- **2019:** II Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC)
-- **2018:** I Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC) — SBC
-- **2017:** XI WTDCC - Workshop de Teses e Dissertações em Ciência da Computação da FACOM/UFU — Programa de Pós-Graduação em Ciência da Computação da FACOM/UFU
+- **2026:** IEEE/IFIP NOMS; ARES; SBSeg; WTF/SBRC; SBCUP; and LADC.
+- **2025:** EICC; IEEE/IFIP NOMS; SBSeg; WTG/SBRC; WTF/SBRC; and ARES.
+- **2024:** EICC; ARES; IEEE/IFIP NOMS; SBSeg; WTG/SBRC; and WPEIF/SBRC.
+- **2023:** IEEE/IFIP NOMS; WTG/SBRC; WPEIF/SBRC; SBSeg; EICC; and ARES.
+- **2022:** SBSI Minicourses; IEEE/IFIP NOMS; WTG/SBRC (5th and 6th editions); WQuantum/SBRC; WPEIF/SBRC; SBSeg; EICC; and ARES.
+- **2021:** ARES; WPEIF/SBRC; SECURWARE; S4SI; EICC; WTG/SBRC; CTD/SBRC; WQuantum/SBRC; WTDSI/SBSI; and SBSI Minicourses.
+- **2020:** IEEE/IFIP NOMS; ARES; WPEIF/SBRC; WTG/SBRC; EICC; S4SI; SECURWARE; and ICN.
+- **2019:** WSCDC; MOBILITY; WPEIF/SBRC; WTG/SBRC; S4SI; and SECURWARE.
+- **2018:** SECURWARE; WSCDC; ICN; MOBILITY; HEAd; WPEIF/SBRC; and S4SI.
+- **2017:** SECURWARE and WPEIF/SBRC.
+- **2016:** SECURWARE.
+- **2015:** SECURWARE.
+- **2014:** SECURWARE.
+- **2013:** SECURWARE.
+
+Ad hoc journal review
+======
+
+I have served as an ad hoc reviewer for the following journals and special issues:
+
+- *Applied Artificial Intelligence*
+- *Applied Sciences*
+- *Applied Soft Computing Journal*
+- *Complex & Intelligent Systems*
+- *Computer Networks*
+- *Computers & Security*
+- *Electronics*
+- *Engineering Applications of Artificial Intelligence*
+- *Engineering Reports*
+- *EURASIP Journal on Information Security*
+- *Future Generation Computer Systems*
+- *Future Internet*
+- *IEEE Internet of Things Journal*
+- *IEEE Journal on Selected Areas in Communications*, including the special issue on Zero Trust for Next-Generation Networking
+- *IEEE Transactions on Information Forensics and Security*
+- *IEEE Transactions on Network and Service Management*
+- *INFOCOMP*
+- *Information Processing & Management*
+- *International Journal of Information Security*
+- *Journal of Information Security and Applications*
+- *Journal of Supercomputing*
+- *Open Computer Science*
+- *Peer-to-Peer Networking*
+- *Reliability Engineering & System Safety*
+- *Sensors*
+- *Smart Science*
+- *Transactions on Emerging Telecommunications Technologies*
+- *Vehicular Communications*
 
 Institutional service
 ======
 
 - Director of the School of Computer Science (FACOM), Federal University of Uberlândia.
 - Coordinator of UFU's Graduate Certificate Program in Cybersecurity.
+- Member of **CESeg**, the Brazilian Computer Society's Special Commission on Cybersecurity, from 2024 to 2025.
 - Former member of the Graduate Program in Computer Science board (2021–2024).
 - Former member of UFU's Information Technology Management Committee (2018–2020).
 - Faculty council service at FACOM in multiple terms between 2015 and 2025.
 - Guest Editor for a *Symmetry* special issue on cybersecurity, IoT, and privacy.
 
-<p class="page-note">Recent roles are based on the Lattes CV updated on July 24, 2026. Earlier program-committee records were recovered from the previous Google Sites profile.</p>
+<p class="page-note">Academic-service records updated from the Lattes CV on July 24, 2026.</p>
