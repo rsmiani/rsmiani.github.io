@@ -38,4 +38,19 @@ Topics of interest
 How to get in touch
 ======
 
-Send an email to [miani@ufu.br](mailto:miani@ufu.br) with the subject **Prospective student**, including your academic level, CV, availability, and the topic that interests you.
+Use the button below with the subject **Prospective student (Interesse em orientação)**. Please include your academic level, CV, availability, and the topic that interests you.
+
+<button type="button" class="btn btn--info" id="prospective-student-contact">Send me an email</button>
+
+<script>
+(function () {
+  var button = document.getElementById("prospective-student-contact");
+  if (!button) return;
+
+  button.addEventListener("click", function () {
+    var address = String.fromCharCode(109, 105, 97, 110, 105, 64, 117, 102, 117, 46, 98, 114);
+    var subject = encodeURIComponent("Prospective student (Interesse em orientação)");
+    window.location.href = "mailto:" + address + "?subject=" + subject;
+  });
+})();
+</script>
