@@ -73,15 +73,4 @@ I have served as an ad hoc reviewer for the following journals and special issue
 - *Transactions on Emerging Telecommunications Technologies*
 - *Vehicular Communications*
 
-Institutional service
-======
-
-- Director of the School of Computer Science (FACOM), Federal University of Uberlândia.
-- Coordinator of UFU's Graduate Certificate Program in Cybersecurity.
-- Member of **CESeg**, the Brazilian Computer Society's Special Commission on Cybersecurity, from 2024 to 2025.
-- Former member of the Graduate Program in Computer Science board (2021–2024).
-- Former member of UFU's Information Technology Management Committee (2018–2020).
-- Faculty council service at FACOM in multiple terms between 2015 and 2025.
-- Guest Editor for a *Symmetry* special issue on cybersecurity, IoT, and privacy.
-
 <p class="page-note">Academic-service records updated from the Lattes CV on July 24, 2026.</p>
