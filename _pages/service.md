@@ -7,7 +7,7 @@ redirect_from:
   - /events/
 ---
 
-I contribute to the Brazilian and international cybersecurity and computer-networks communities through technical program committees, peer review, event organization, and academic governance.
+I contribute to the Brazilian and international cybersecurity and computer-networks communities through technical program committees, peer review, and event organization.
 
 Organizing Committee
 ======
