@@ -2,6 +2,9 @@ main:
   - title: "Research"
     url: /projects/
 
+  - title: "Technical products"
+    url: /technical-products/
+
   - title: "Publications"
     url: /publications/
 
